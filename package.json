@@ -52,7 +52,7 @@
     "npm": "^3.10.7",
     "protractor": "^5.1.0",
     "q": "^1.4.1",
-    "request": "^2.76.0",
+    "request": "^2.81.0",
     "shelljs": "^0.7.5",
     "snyk": "^1.17.5",
     "view-helpers": "0.1.5"
